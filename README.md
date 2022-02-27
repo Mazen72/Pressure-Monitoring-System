@@ -7,3 +7,4 @@ in this project i used Dash plotly framework to build a Dashboard based web app 
 ![PMS-](https://user-images.githubusercontent.com/85415062/131397724-5afcf58a-3cdc-42ed-bf58-c62bb416b4aa.PNG)
 
 
+ 
